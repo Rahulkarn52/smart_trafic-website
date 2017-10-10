@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	margin:0;
+	padding:0;
+	margin:0 auto;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#036;
+}
+body {
+    background: url("bc.jpg");
+    background-repeat: no-repeat;
+    
+
+}
+.title
+{
+	font-size: 70px;
+	text-align: center;
+	color: #E5E4E2;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width:50%;
+}
+
+li {
+    float: left;
+    border-right: 2px solid #bbb;
+}
+
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+
+li a:hover {
+    background-color: green;
+}
+
+
+
