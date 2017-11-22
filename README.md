@@ -12,4 +12,4 @@ also check details about vehicles tax.
 download all files and save inside xampp/htdocs inside a folder mproject
 make a database name mproject in local host in xampp having username : "root" and password = ""
 import the sql file.
-run the project. by (http://localhost/mproject/) after enabling loal host.
+run the project. by (http://localhost/mproject/) after enabling the host.
